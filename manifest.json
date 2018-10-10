@@ -1,0 +1,38 @@
+{
+  "name": "tokobungaasryflorist.com",
+  "short_name": "AsryFlorist",
+  "start_url": "https://www.tokobungaasryflorist.com/",
+  "display": "standalone",
+  "background_color": "#f9f9f9",
+  "theme_color": "#308300",
+  "description": "",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-mNRERvKN5yI/WsrzVTkbwZI/AAAAAAAAz_c/6dsCTYA7SN8Y_2_srveQhY9JhLNiWiiAACLcBGAs/s1600/tokobungaasryflorist48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oicEic325nc/WsrzqoiihxI/AAAAAAAAz_0/rPEKFgfshL4tsmeA0xkMB3TBpXECcc6EgCLcBGAs/s1600/tokobungaasryflorist72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-1cJFMFHJPNQ/WsrzreKPN8I/AAAAAAAAz_4/p-ApmznTd8g2C9gi3aofdQS8JG6NCodbQCLcBGAs/s1600/tokobungaasryflorist96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-eAaPRjXV0j4/Wsrzpj_54zI/AAAAAAAAz_o/uaoRjijHWbAG-QhMp9a4SgOtZle8Q1r-QCLcBGAs/s1600/tokobungaasryflorist144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5fA3CiKUnvs/Wsrzpb6g3MI/AAAAAAAAz_k/dhIf4rK8kwglYfJwtd7-DKoLjMKBWVuJACLcBGAs/s1600/tokobungaasryflorist168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-0_Od4CBPXOg/WsrzqVz0VTI/AAAAAAAAz_w/bT1vMvR3P40WVq3gbZaUhOOe7JL2EKM_ACLcBGAs/s1600/tokobungaasryflorist192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-iL0QNfCJTrI/WsrzsTPOSBI/AAAAAAAAz_8/qRNgGjjj9tELNeB204YkPJV2oouc5DfGgCLcBGAs/s1600/tokobungaasryflorist512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
